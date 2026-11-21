@@ -8,9 +8,10 @@ TODO: Cleans [dataset] so it can be trusted for [forecasting / pricing analysis 
 - TODO
 
 ## Data
-- Source: TODO (Kaggle link)
-- Rows / columns (raw): TODO
-- Raw data is not committed. Download it into `data/raw/`.
+- Source: [Online Retail II, UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
+- UK-based online gift retailer, transactions Dec 2009 – Dec 2011
+- Rows / columns (raw): 1,067,371 / 8
+- Raw data is not committed. Download `online_retail_II.xlsx` into `data/raw/`.
 
 ## What I did
 | Issue | Fix | Rows affected |
